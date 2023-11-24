@@ -1,2 +1,2 @@
 # Java JEE Developers skill test
-A test Java/Java JEE knowledge with an online test.
+A test of Java/Java JEE knowledge with an online test.
